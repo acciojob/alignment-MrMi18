@@ -2,3 +2,8 @@
 h1{
 	text-align:center;
 }
+table-3{
+	border:1px solid black;
+	spacing:1px;
+	cell-padding:1px;
+}
