@@ -13,3 +13,6 @@ table-3{
 .blue{
 	background-color:blue;
 }
+td{
+	border:1px solid black;
+}
